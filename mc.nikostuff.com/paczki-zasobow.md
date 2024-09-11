@@ -20,6 +20,8 @@ icon: arrow-down-to-bracket
 
 ✅ [https://mcapi.nikostuff.com/vbc/WeaponMechanicsResourcePack-2.1.2.zip](https://mcapi.nikostuff.com/vbc/WeaponMechanicsResourcePack-2.1.2.zip)&#x20;
 
-✅ [https://mcapi.nikostuff.com/vbc/QualityArmory\_L.zip](https://mcapi.nikostuff.com/vbc/QualityArmory\_L.zip) [https://mcapi.nikostuff.com/vbc/nova.zip](https://mcapi.nikostuff.com/vbc/nova.zip)&#x20;
+✅ [https://mcapi.nikostuff.com/vbc/QualityArmory\_L.zip](https://mcapi.nikostuff.com/vbc/QualityArmory\_L.zip)
+
+✅ [https://mcapi.nikostuff.com/vbc/nova.zip](https://mcapi.nikostuff.com/vbc/nova.zip)&#x20;
 
 ✅ [https://mcapi.nikostuff.com/vbc/custom\_plyty\_rp.zip](https://mcapi.nikostuff.com/vbc/custom\_plyty\_rp.zip)
