@@ -12,6 +12,7 @@
   * [Trading](mc.nikostuff.com/pluginy-wtyczki/trading.md)
 * [Ekonomia](mc.nikostuff.com/ekonomia.md)
 * [Rangi](mc.nikostuff.com/rangi.md)
+* [Administracja](mc.nikostuff.com/administracja.md)
 
 ## Rekrutacja
 
