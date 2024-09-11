@@ -7,13 +7,17 @@
 * [Ogólne informacje](mc.nikostuff.com/ogolne-informacje.md)
 * [Paczki Zasobów](mc.nikostuff.com/paczki-zasobow.md)
 * [Pluginy / Wtyczki](mc.nikostuff.com/pluginy-wtyczki/README.md)
+  * [Podstawy](mc.nikostuff.com/pluginy-wtyczki/podstawy.md)
   * [AuraSkills](mc.nikostuff.com/pluginy-wtyczki/auraskills.md)
   * [Towny](mc.nikostuff.com/pluginy-wtyczki/towny.md)
   * [Nova](mc.nikostuff.com/pluginy-wtyczki/nova.md)
   * [Trading](mc.nikostuff.com/pluginy-wtyczki/trading.md)
+  * [ActionHouse](mc.nikostuff.com/pluginy-wtyczki/actionhouse.md)
+  * [QualityArmory / WeaponMechanics](mc.nikostuff.com/pluginy-wtyczki/qualityarmory-weaponmechanics.md)
 * [Ekonomia](mc.nikostuff.com/ekonomia.md)
 * [Rangi](mc.nikostuff.com/rangi.md)
 * [Administracja](mc.nikostuff.com/administracja.md)
+* [Nasza Historia](mc.nikostuff.com/nasza-historia.md)
 
 ## Rekrutacja
 
