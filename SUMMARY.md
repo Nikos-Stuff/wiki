@@ -5,6 +5,7 @@
 ## mc.nikostuff.com
 
 * [Ogólne informacje](mc.nikostuff.com/ogolne-informacje.md)
+* [Paczki Zasobów](mc.nikostuff.com/paczki-zasobow.md)
 * [Pluginy / Wtyczki](mc.nikostuff.com/pluginy-wtyczki/README.md)
   * [AuraSkills](mc.nikostuff.com/pluginy-wtyczki/auraskills.md)
   * [Towny](mc.nikostuff.com/pluginy-wtyczki/towny.md)
