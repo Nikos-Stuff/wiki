@@ -12,7 +12,7 @@ icon: list-check
 * Zapoznanie się z sekcja "FairPlay" (no /op abuse)
 * Obsługa panelu Pterodactyl
 * Znajomość z systemem Linux
-* Znajomośc configami pluginów
+* Znajomość configami pluginów
 * No brain-rot
 
 ### <mark style="color:red;">❌ Pozycja zajęta</mark>

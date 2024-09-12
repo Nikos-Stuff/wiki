@@ -12,7 +12,7 @@ icon: code-simple
 * Zapoznanie się z sekcja "FairPlay" (no /op abuse)
 * Obsługa panelu Pterodactyl
 * Znajomość z systemem Linux
-* Znajomośc z JavaScript-em
+* Znajomość z JavaScript-em
 * No brain-rot
 
 ### <mark style="color:red;">❌ Pozycja zamknięta</mark>&#x20;

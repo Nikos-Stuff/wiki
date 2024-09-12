@@ -22,7 +22,8 @@
 
 ## Rekrutacja
 
-* [Otwarte Pozycje](rekrutacja/otwarte-pozycje.md)
+* [Otwarte Pozycje](rekrutacja/otwarte-pozycje/README.md)
+  * [Tłumacz Konfiguracji](rekrutacja/otwarte-pozycje/tlumacz-konfiguracji.md)
 * [Zajęte Pozycje](rekrutacja/zajete-pozycje/README.md)
   * [Network Manager](rekrutacja/zajete-pozycje/network-manager.md)
   * [Safety Manager](rekrutacja/zajete-pozycje/safety-manager.md)
