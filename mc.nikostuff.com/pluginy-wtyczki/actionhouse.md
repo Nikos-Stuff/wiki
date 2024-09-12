@@ -24,3 +24,21 @@ Każdy gracz może mieć max 10 ogłoszeń
 {% hint style="danger" %}
 **Nie odpowiadamy za oszustwa, przeprowadzone transakcje / utracone przedmioty!**
 {% endhint %}
+
+## Zarządzanie swoimi stawkami
+
+W każdej chwili możesz anulować swoją oferte
+
+* Użyj komendy `/ah`
+* Kliknij "<mark style="color:yellow;">**Twój Profil**</mark>"
+* Kliknij "<mark style="color:blue;">**Twoje Wystawienia**</mark>"
+* Z tego poziomu możesz anulować swoje oferty klikając na wybrany item
+
+## Zwrot nieudanych stawek
+
+Jeśli nie udało ci się sprzedać itemów w wybranym  przedziale czasowym, możesz je odzyskać
+
+* Użyj komendy `/ah`
+* Kliknij "<mark style="color:yellow;">**Twój Profil**</mark>"
+* Kliknij "<mark style="color:red;">**Twoje Wygasłe Wystawienia**</mark>"
+* Tutaj będą widoczne wszystkie wygasłe oferty
