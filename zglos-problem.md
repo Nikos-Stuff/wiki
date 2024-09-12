@@ -11,7 +11,7 @@ Aby zgłosić błąd na serwerze Minecraft użyj następującej komendy:
 1. Wpisz na czacie `/bugreport`
 2. Wybierz kategorie
 3. Opisz problem na czacie
-4. Po napisaniu zgłoszenie powinno zostać wysłane!
+4. Po napisaniu zgłoszenie powinno ono zostać wysłane.
 
 ## Instrukcja do zgłaszania błędów (Inne)
 
