@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Witaj](README.md)
+* [Zgłoś Problem](zglos-problem.md)
 
 ## mc.nikostuff.com
 
