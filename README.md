@@ -23,7 +23,7 @@ layout:
 
 
 {% hint style="danger" %}
-Uwaga - Strona nie będzie posiadać chronologii
+Uwaga - Strona nie będzie posiadać chronologii - Yes lol
 {% endhint %}
 
 {% hint style="info" %}
