@@ -1,17 +1,13 @@
 ---
-icon: language
+icon: rectangle-ad
 ---
 
-# Tłumacz Konfiguracji
+# Media / Reklamy
 
 ## Wymagania:
 
 * Minimum 14 lat
-* Znajomość z pluginami (podstawowe komendy typu /mute itp)
-* Znajomość z komendami vanilla
-* Obsługa panelu Pterodactyl
-* Znajomość z configami pluginów
-* Znajomość języka Angielskiego
+* 1000 widzów na jakiejkolwiek platformie
 * No brain-rot
 
 ### <mark style="color:red;">✅</mark> <mark style="color:green;">Pozycja otwarta - Szukamy osób na tą pozycje!</mark>

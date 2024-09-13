@@ -15,6 +15,10 @@
   * [Trading](mc.nikostuff.com/pluginy-wtyczki/trading.md)
   * [ActionHouse](mc.nikostuff.com/pluginy-wtyczki/actionhouse.md)
   * [QualityArmory / WeaponMechanics](mc.nikostuff.com/pluginy-wtyczki/qualityarmory-weaponmechanics.md)
+  * [Vehicles ](mc.nikostuff.com/pluginy-wtyczki/vehicles.md)
+* [Systemy Wydajności](mc.nikostuff.com/systemy-wydajnosci/README.md)
+  * [Dynamiczny Render Distance](mc.nikostuff.com/systemy-wydajnosci/dynamiczny-render-distance.md)
+  * [Entity Manager](mc.nikostuff.com/systemy-wydajnosci/entity-manager.md)
 * [Ekonomia](mc.nikostuff.com/ekonomia.md)
 * [Rangi](mc.nikostuff.com/rangi.md)
 * [Administracja](mc.nikostuff.com/administracja.md)
@@ -24,6 +28,7 @@
 
 * [Otwarte Pozycje](rekrutacja/otwarte-pozycje/README.md)
   * [Tłumacz Konfiguracji](rekrutacja/otwarte-pozycje/tlumacz-konfiguracji.md)
+  * [Media / Reklamy](rekrutacja/otwarte-pozycje/media-reklamy.md)
 * [Zajęte Pozycje](rekrutacja/zajete-pozycje/README.md)
   * [Network Manager](rekrutacja/zajete-pozycje/network-manager.md)
   * [Safety Manager](rekrutacja/zajete-pozycje/safety-manager.md)
