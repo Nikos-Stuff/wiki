@@ -1,5 +1,6 @@
 ---
 icon: square
+hidden: true
 ---
 
 # Towny
