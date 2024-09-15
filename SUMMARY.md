@@ -12,7 +12,7 @@
   * [AuraSkills](mc.nikostuff.com/pluginy-wtyczki/auraskills.md)
   * [Towny](mc.nikostuff.com/pluginy-wtyczki/towny.md)
   * [Nova](mc.nikostuff.com/pluginy-wtyczki/nova.md)
-  * [Trading](mc.nikostuff.com/pluginy-wtyczki/trading.md)
+  * [Trading - Tymczasowo wył](mc.nikostuff.com/pluginy-wtyczki/trading-tymczasowo-wyl.md)
   * [ActionHouse](mc.nikostuff.com/pluginy-wtyczki/actionhouse.md)
   * [QualityArmory / WeaponMechanics](mc.nikostuff.com/pluginy-wtyczki/qualityarmory-weaponmechanics.md)
   * [Vehicles ](mc.nikostuff.com/pluginy-wtyczki/vehicles.md)

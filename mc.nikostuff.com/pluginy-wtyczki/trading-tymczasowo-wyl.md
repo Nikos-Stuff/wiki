@@ -2,9 +2,11 @@
 icon: hand-holding-circle-dollar
 ---
 
-# Trading
+# Trading - Tymczasowo wył
 
-
+{% hint style="danger" %}
+Opcja tymczasowo wyłączona!
+{% endhint %}
 
 {% hint style="warning" %}
 **BETA** | Ta funkcja serwera jest jeżcze w fazie beta
