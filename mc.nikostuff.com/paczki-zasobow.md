@@ -15,6 +15,8 @@ icon: arrow-down-to-bracket
 
 ❓ [https://mcapi.nikostuff.com/vbc/Reimagined.zip](https://mcapi.nikostuff.com/vbc/Reimagined.zip)
 
+✅ [https://mcapi.nikostuff.com/vbc/vanillatweaks.zip](https://mcapi.nikostuff.com/vbc/vanillatweaks.zip)
+
 ✅ [https://mcapi.nikostuff.com/vbc/more\_food.zip](https://mcapi.nikostuff.com/vbc/more\_food.zip)
 
 ✅ [https://mcapi.nikostuff.com/vbc/vbc\_main.zip](https://mcapi.nikostuff.com/vbc/vbc\_main.zip)&#x20;
