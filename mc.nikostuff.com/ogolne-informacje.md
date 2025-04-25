@@ -40,20 +40,6 @@ Pobliskie moby będą dostosowywane na bazie twoich umiejętności! (Będą mia�
 
 
 
-### 🏢 Towny
-
-Twórz miasta, kraje i wiele więcej! Posiadamy integracje z Towny dzięki czemu możesz zająć swój teren na świecie i zbudować swoją wymarzoną architekturę.&#x20;
-
-
-
-### 💥 Wojny / Protesty
-
-Posiadając społeczność musisz brać uwagę na to że mogą oni rozpocząć protesty lub wojnę!\
-Dzięki SiegeWars oraz FlagWars, prowadzenie swojego miasta jest bardziej ciekawe i wymagające.\
-Do tego każdy gracz może zakupić bronie palne
-
-
-
 ### 🔫 DiscordSRV
 
 Komunikuj się z graczami real time korzystając z discorda i na odwrót! \
