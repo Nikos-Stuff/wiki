@@ -57,7 +57,7 @@ Benefity się nakładają z poprzednich rang (np Znany Gracz zachowuje dodatki z
 
 {% tab title="MVIP" %}
 * Koszt vcoins: `1500 (1 miesiąc) | 3500 (3 miesiące)`
-* Benefity: `/enchant, /repair all, Customowy abovename / belovename, Większy mnożnik XP`
+* Benefity: `/enchant, /repair all, Customowy abovename / belowname, Większy mnożnik XP`
 {% endtab %}
 {% endtabs %}
 
